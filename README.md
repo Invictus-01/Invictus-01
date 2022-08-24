@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Software Engineering @ ALX Africa<br>
 - 👯 I’m looking to collaborate on projects to build my skillset.<br>
 - 📫 How to reach me:<br> 
-      ◼ Twitter: <a href="https://twitter.com/ijoma_joseph">Ijoma(INVICTUS)™</a><br>
+      ◼ Twitter: <a href="https://twitter.com/ijoma_joseph">Ijoma (INVICTUS)™</a><br>
       ◼ Linkedin: <a href="https://www.linkedin.com/in/ijoma-joseph-chinagorom-1a3095231">Ijoma Joseph Chinagorom</a><br>
 - ⚡ Fun fact:<br>
                ◼ I love exploring new things; it interests me to know how things are done under the hood<br>
