@@ -1,7 +1,7 @@
 ### Hi, I'm Invictus 
 <br>
-- 🔭 I’m currently working on becoming a Full-stack Software Engineer<br>
-- 🌱 I’m currently learning Software Engineering @ ALX Africa<br>
+- 🔭 I’m currently working on becoming a Blockchain Developer<br>
+- 🌱 Also, I’m currently learning Software Engineering @ ALX Africa<br>
 - 👯 I’m looking to collaborate on projects to build my skillset.<br>
 - 📫 How to reach me:<br> 
       ◼ Twitter: <a href="https://twitter.com/ijoma_joseph">IJOMA (Invictus)™</a><br>
